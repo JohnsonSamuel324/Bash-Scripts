@@ -24,4 +24,4 @@ else
 fi
 cd ..
 
-rsync -azh --stats $input $output$fileName --delete --exclude Backups -- .cache --exclude Trash
+rsync -azh --stats $input $output$fileName --delete --exclude Backups --exclude .cache --exclude Trash
