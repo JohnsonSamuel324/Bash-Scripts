@@ -18,6 +18,5 @@ fi
 sudo apt update && sudo apt upgrade -y >> $logFile
 
 # Creates a barrier between this log and the next log
-echo "-------------------------------------------------" >> $logFile.txt
-
+echo "-------------------------------------------------" >> $logFile
 # -Suspect
