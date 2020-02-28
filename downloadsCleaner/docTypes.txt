@@ -1,0 +1,12 @@
+doc
+docx
+htm
+html
+odt
+pdf
+xls
+xlsx
+ods
+ppt
+pptx
+txt
